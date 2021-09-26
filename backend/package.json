@@ -1,0 +1,24 @@
+{
+  "name": "kid-reward-backend",
+  "version": "1.0.0",
+  "description": "test project for kid reward UI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FishingOnATree/Node_kids_reward.git"
+  },
+  "author": "Raymond Sung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FishingOnATree/Node_kids_reward/issues"
+  },
+  "homepage": "https://github.com/FishingOnATree/Node_kids_reward#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.7"
+  }
+}
